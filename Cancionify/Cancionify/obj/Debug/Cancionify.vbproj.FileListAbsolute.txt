@@ -1,0 +1,15 @@
+C:\Users\migue\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\2 CUATRIMESTRE\BBDD\PRACTICAS\Cancionify\Cancionify\bin\Debug\Cancionify.exe.config
+C:\Users\migue\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\2 CUATRIMESTRE\BBDD\PRACTICAS\Cancionify\Cancionify\bin\Debug\Cancionify.exe
+C:\Users\migue\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\2 CUATRIMESTRE\BBDD\PRACTICAS\Cancionify\Cancionify\bin\Debug\Cancionify.pdb
+C:\Users\migue\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\2 CUATRIMESTRE\BBDD\PRACTICAS\Cancionify\Cancionify\bin\Debug\Cancionify.xml
+C:\Users\migue\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\2 CUATRIMESTRE\BBDD\PRACTICAS\Cancionify\Cancionify\obj\Debug\Cancionify.vbprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\2 CUATRIMESTRE\BBDD\PRACTICAS\Cancionify\Cancionify\obj\Debug\Cancionify.Resources.resources
+C:\Users\migue\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\2 CUATRIMESTRE\BBDD\PRACTICAS\Cancionify\Cancionify\obj\Debug\Cancionify.vbproj.GenerateResource.cache
+C:\Users\migue\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\2 CUATRIMESTRE\BBDD\PRACTICAS\Cancionify\Cancionify\obj\Debug\Cancionify.vbproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\2 CUATRIMESTRE\BBDD\PRACTICAS\Cancionify\Cancionify\obj\Debug\Cancionify.exe
+C:\Users\migue\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\2 CUATRIMESTRE\BBDD\PRACTICAS\Cancionify\Cancionify\obj\Debug\Cancionify.xml
+C:\Users\migue\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\2 CUATRIMESTRE\BBDD\PRACTICAS\Cancionify\Cancionify\obj\Debug\Cancionify.pdb
+C:\Users\migue\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\2 CUATRIMESTRE\BBDD\PRACTICAS\Cancionify\Cancionify\obj\Debug\Cancionify.Pantalla_Carga.resources
+C:\Users\migue\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\2 CUATRIMESTRE\BBDD\PRACTICAS\Cancionify\Cancionify\obj\Debug\Cancionify.Pantalla_BBDD.resources
+C:\Users\migue\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\2 CUATRIMESTRE\BBDD\PRACTICAS\Cancionify\Cancionify\obj\Debug\Cancionify.Pantalla_Principal.resources
+C:\Users\migue\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\2 CUATRIMESTRE\BBDD\PRACTICAS\Cancionify\Cancionify\obj\Debug\Cancionify.InicSesion.resources
